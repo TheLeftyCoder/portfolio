@@ -62,11 +62,11 @@ $(document).ready(function() {
 var skills = [
             {"header" : "INTERESTS",
               "captions" : [
-                "Digital Marketing",
-                "Web",
-                "PWAs",
-                "Design",
-                "SEO"
+                "Artificial Intelligence",
+                "Machine learning",
+                "Python",
+                "Data structures",
+                "ALgorithms"
               ],
               "values" : [
                 0.80,
@@ -78,11 +78,11 @@ var skills = [
             },
             {"header" : "CORE",
               "captions" : [
-                "CSS",
-                "AJAX",
-                "HTML",
-                "jQuery",
-                "JS"
+                "C Programming language",
+                "C++",
+                "Python 3",
+                "Python 4",
+                "Competitve programming"
               ],
               "values" : [
                 0.90,
@@ -92,14 +92,11 @@ var skills = [
                 0.80
               ]
             },
-            {"header" : "Mordern Web",
+            {"header" : "Machine learning",
               "captions" : [
-                "wix",
-                "wordpress",
-                "React",
-                "Angular",
-                "Weex"
-              ],
+                "Data Models",
+"Deep learning",              "NLP",
+                "Computer Vision"    ],
               "values" : [
                 0.80,
                 0.85,
